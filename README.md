@@ -3,7 +3,7 @@
 
 This repo documents all my NLP review material, as well as projects I've been working on. 
 
-My progress is tracked in the table below: 
+My activity is tracked in the table below: 
 
 | Date | Course/Book | Description | Associated File(s) |
 | -- | --- | --- | --- |
