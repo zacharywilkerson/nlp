@@ -7,7 +7,7 @@ My activity is tracked in the table below:
 
 | Date | File(s) | Description | 
 | -- | --- | --- | 
-| 10/14/21 <br /> 10/12/21 | [Machine Learning](https://github.com/zacharywilkerson/nlp/blob/main/Learning/Machine%20Learning.ipynb) | Random Forest Classifiers | 
+| 10/14/21 <br /> 10/12/21 | [Machine Learning](https://github.com/zacharywilkerson/nlp/blob/main/Learning/Machine%20Learning.ipynb) | Added Section: Gradient Boosting<br /> Added section: Random Forest Classifiers | 
 | # | # | # |
 | # | # | # |
 | # | # | # |
