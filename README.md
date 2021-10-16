@@ -13,9 +13,9 @@ This repo documents all my NLP review material, as well as projects I've been wo
 	- [Word2Vec](https://github.com/zacharywilkerson/nlp/blob/main/Learning/Word2Vec.ipynb) 
 	- [Doc2Vec](https://github.com/zacharywilkerson/nlp/blob/main/Learning/Doc2Vec.ipynb) 
 - Projects
-	-
-	-
-	-
+	- Sentiment Analysis
+	- 
+	- 
 
 ### Activity Tracker: 
 My activity is tracked in the table below: 
