@@ -4,7 +4,7 @@
 This repo documents all my NLP review material, as well as projects I've been working on. 
 
 ### Current Directory: 
-```
+
 - Learning 
 	- [NLP Prerequisites](https://github.com/zacharywilkerson/nlp/blob/main/Learning/NLP%20Prerequisites.ipynb) 
 	- [Vectorization](https://github.com/zacharywilkerson/nlp/blob/main/Learning/Vectorization.ipynb) 
@@ -16,7 +16,6 @@ This repo documents all my NLP review material, as well as projects I've been wo
 	-
 	-
 	-
-```
 
 ### Activity Tracker: 
 My activity is tracked in the table below: 
